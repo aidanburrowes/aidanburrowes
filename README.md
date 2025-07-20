@@ -128,8 +128,6 @@ ancient Greek literature. Oxford University Press, DSH, 39(4), 1019–1025. [doi
 
 ![awesome cat fist bumps human](https://media1.tenor.com/m/fsRb0U9CyoIAAAAd/cool-cat-fist-bump.gif)
 
-![cool cat putting on shades]([https://tenor.com/view/cat-cool-lit-gif-13999500](https://media1.tenor.com/m/ZfEvClq8TnkAAAAC/cat-cool.gif))
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aidanburrowes&color=brightgreen&style=flat-square)
 
 </div></div>
