@@ -85,7 +85,6 @@
 
 <div align="center">
 
-### 🧠 **AI & Machine Learning**
 ```python
 current_research = {
     "quantum_computing": "Skyrmion-vortex superconductor qubits (~10μs T1, 50x improvement)",
