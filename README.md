@@ -2,7 +2,7 @@
   
 # Hi there, I'm Aidan 👋
 
-### 🎓 CS @ UF | 💼 SWE Intern @ Roblox | 💻 Prev. @ Microsoft | 🔬 AI & Quantum Computing Researcher
+### 🎓 CS @ UF | 💼 Campus Ambassador @ Roblox & ML Intern @ IC3 | 💻 Prev. @ Roblox, Microsoft | 🔬 AI & Quantum Computing Researcher
 
 [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aidanburrowes.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidanburrowes)
@@ -39,7 +39,7 @@
 <td>
 
 ## 🎮 **Roblox** - Software Engineer Intern
-*May 2025 – Present*
+*May 2025 – August 2025*
 - Enhancing CI/CD productivity for the Engine
 - Developing internal build tools & services
 - Reducing manual work & time builds are broken
@@ -112,7 +112,7 @@ ancient Greek literature. Oxford University Press, DSH, 39(4), 1019–1025. [doi
 
 ## 🏆 Achievements
 
-- 🎓 **UF Honors Program** student with 3.87 GPA
+- 🎓 **UF Honors Program** student with 3.88 GPA
 - 🔬 **UF AI Scholar** - Selected as one of 35 recipients
 - ⚡ **3x HSF Scholar**, Purdue Science B4PhD Scholar, USF Hackathon Winner
 - 🏢 **3 Tech Internships** at Roblox, Microsoft, and HumanAI
